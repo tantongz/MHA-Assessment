@@ -21,10 +21,10 @@ python .\script-2.py -i .\Win32_Industroyer.pdf -o out2
 The output from this script has been saved as [out2.csv](./A-AutomationScripting/out2.csv)
 
 ## B. Cyber Threat Analysis
-Write up is located in folder [B-CyberThreatAnalysis](./B-CyberThreatAnalysis).
+Write up, [B.docx](./B-CyberThreatAnalysis/B.docx), is located in folder [B-CyberThreatAnalysis](./B-CyberThreatAnalysis).
 
 ## C. Analytics Development
-Script and write up are located in folder [C-AnalyticsDevelopment](./C-AnalyticsDevelopment).
+Script and write up, [C.docx](./C-AnalyticsDevelopment/C.docx), are located in folder [C-AnalyticsDevelopment](./C-AnalyticsDevelopment).
 ####  To run the script
 ```
  python .\script-3.py -i .\http.log -o out3
