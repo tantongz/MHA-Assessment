@@ -1,6 +1,6 @@
 # MHA Assessment
-All codes are written in Python 3
-Win32_Industroyer.pdf for part A and http.log for part C are not uploaded.
+All codes are written in Python 3 </br>
+**Win32_Industroyer.pdf for part A and http.log for part C are not uploaded. Please add them in your directory if you want to run the scripts.**
 ## A. Automation Scripting
 Scripts are located in folder [A-AutomationScripting](./A-AutomationScripting).
 ### Part 1
