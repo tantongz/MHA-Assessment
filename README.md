@@ -9,7 +9,7 @@ python .\script-1.py -i .\Win32_Industroyer.pdf -o out1
 ```
 *Note: Output file is automatically saved as txt*
 
-The output from this script has been saved as [out1.txt](./out1.txt)
+The output from this script has been saved as [out1.txt](./A-AutomationScripting/out1.txt)
 
 ### Part 2
 #### To run the script
@@ -18,7 +18,7 @@ python .\script-2.py -i .\Win32_Industroyer.pdf -o out2
 ```
 *Note: Output file is automatically saved as csv*
 
-The output from this script has been saved as [out2.csv](./out2.csv)
+The output from this script has been saved as [out2.csv](./A-AutomationScripting/out2.csv)
 
 ## B. Cyber Threat Analysis
 Write up is located in folder [B-CyberThreatAnalysis](./B-CyberThreatAnalysis).
@@ -38,4 +38,4 @@ There are 2 parameters the users can change.
 
 *Note: Output file is automatically saved as txt*
 
-The output from this script has been saved as [out3.txt](./out3.txt)
+The output from this script has been saved as [out3.txt](./C-AnalyticsDevelopment/out3.txt)
